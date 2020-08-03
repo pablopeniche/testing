@@ -6,10 +6,6 @@ red
 green
 orange
 
-This could be an issue
-
-
-
 Fairies make magic
 
 And unicorns fly across
