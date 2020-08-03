@@ -6,6 +6,7 @@ red
 green
 orange
 
+Fairies make magic
 
 And unicorns fly across
 
