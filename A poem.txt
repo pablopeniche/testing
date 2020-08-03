@@ -3,5 +3,6 @@ pink
 pruple
 yellow
 red
+green
 
 This are the colors of the rainbow.
