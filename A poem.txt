@@ -4,5 +4,6 @@ pruple
 yellow
 red
 green
+orange
 
 This are the colors of the rainbow.
